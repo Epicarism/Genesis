@@ -13,17 +13,14 @@ Pick this specialization to focus on higher level mathematics and algorithms and
 | **Reading**                                                                                                                                                                     | **Status** | **Evidence** |
 | [Competitive Programming Tutorials on TopCoder](https://www.topcoder.com/community/competitive-programming/tutorials/)                                                          |            |              |
 | **Practice**                                                                                                                                                                    | **Status** | **Evidence** |
-| Complete all sections of [The HackerRank Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit)                                             |            |              |
-| Complete 5 Easy problems of your choice on [TopCoder](https://arena.topcoder.com/#/u/practiceProblemList)                                                                       |            |              |
+| Complete all sections of [The HackerRank Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit)                                   
 | Complete 5 Easy problems of your choice on [LeetCode](https://leetcode.com/problemset/algorithms/)                                                                              |            |              |
 | Complete 5 Easy problems of your choice from the [HackerRank Artificial Intelligence](https://www.hackerrank.com/domains/ai) section                                            |            |              |
 | Complete 10 Medium problems of your choice on [LeetCode](https://leetcode.com/problemset/algorithms/)                                                                           |            |              |
-| [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam/archive) year of your choice                                                                                |            |              |
-| Complete 10 Medium problems of your choice on [TopCoder](https://arena.topcoder.com/#/u/practiceProblemList)                                                                    |            |              |
+| [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam/archive) year of your choice                                                                     
 | Complete 10 Medium problems of your choice from the [HackerRank Artificial Intelligence](https://www.hackerrank.com/domains/ai) section                                         |            |              |
 | [Facebook Hacker Cup](https://www.facebook.com/hackercup/past_rounds/228440181128818/) year of your choice                                                                      |            |              |
-| Complete 10 Hard problems of your choice on [LeetCode](https://leetcode.com/problemset/algorithms/)                                                                             |            |              |
-| Complete 10 Hard problems of your choice on [TopCoder](https://arena.topcoder.com/#/u/practiceProblemList)                                                                      |            |              |
+| Complete 10 Hard problems of your choice on [LeetCode](https://leetcode.com/problemset/algorithms/)                                                                   
 | Complete 10 Hard problems of your choice from the [HackerRank Artificial Intelligence](https://www.hackerrank.com/domains/ai) section                                           |            |              |
 | [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam/archive) year of your choice                                                                                |            |              |
 | [Facebook Hacker Cup](https://www.facebook.com/hackercup/past_rounds/228440181128818/) year of your choice                                                                      |            |              |
