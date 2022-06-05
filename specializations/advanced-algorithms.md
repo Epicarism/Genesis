@@ -11,10 +11,8 @@ Pick this specialization to focus on higher level mathematics and algorithms and
 | [Advanced Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/)                                            |            |              |
 | [Advanced Data Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/index.htm)                        |            |              |
 | **Reading**                                                                                                                                                                     | **Status** | **Evidence** |
-| [Competitive Programming on HackerEarth](https://www.hackerearth.com/getstarted-competitive-programming/)                                                                       |            |              |
 | [Competitive Programming Tutorials on TopCoder](https://www.topcoder.com/community/competitive-programming/tutorials/)                                                          |            |              |
 | **Practice**                                                                                                                                                                    | **Status** | **Evidence** |
-| Complete sections 1 through 18 of [CodeMonk](https://www.hackerearth.com/practice/codemonk/) on HackerEarth                                                                     |            |              |
 | Complete all sections of [The HackerRank Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit)                                             |            |              |
 | Complete 5 Easy problems of your choice on [TopCoder](https://arena.topcoder.com/#/u/practiceProblemList)                                                                       |            |              |
 | Complete 5 Easy problems of your choice on [LeetCode](https://leetcode.com/problemset/algorithms/)                                                                              |            |              |
